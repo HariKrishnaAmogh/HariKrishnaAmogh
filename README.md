@@ -3,8 +3,8 @@
 </h2>
 
 <p align="center">
-  <a href="https://amoghharikrishna.dev" style="color:white"> Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/amogh-hk/" style="color:white">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://amoghharikrishna.dev" target="_blank" style="color:white"> Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/amogh-hk/" target="_blank" style="color:white">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:HariKrishna.Amogh@gmail.com" style="color:white">Email</a>
 </p>
 
